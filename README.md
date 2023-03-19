@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Orion-j
+- 👋 Hi, I’m @joeboadiDEv_
 - 👀 I’m interested in anything software engineer, web and app developing, data science etc
 - 🌱 I’m currently learning computer science and engineer.
 - 💞️ I’m looking to collaborate on developing an application for solving major social and civic problems.
